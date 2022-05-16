@@ -1,0 +1,190 @@
+.block-1
+{
+    background-image: url(https://wpassets.brainstation.io/app/uploads/2017/04/13100509/Netflix-Background.jpg);
+    height: 100%;
+    align-items: center;
+}
+.logo
+{
+    margin-left: 5%;
+    height: 20%;
+    width: 30%;
+    position: sticky;
+    top: 10px;
+    opacity: 0.9;
+}
+body
+{
+    align-items: center;
+}
+.signin
+{
+    float: right;
+    margin-top: 20px;
+    margin-right: 10px;
+    font-size: 20px;
+    padding: 5px 10px;
+    color: black;
+    background-color: red;
+    border-radius: 3px;
+}
+.p{
+    color: white;
+    margin-left: 35%;
+}
+.h1
+{
+   float: none;
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.h2
+{
+    font-size: 35px;
+}
+.h3
+{
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+input{
+    height: fit-content;
+    font-size: 20px;
+    float: none;
+    margin-left: 35%;
+    padding:10px 15px;
+}
+.getstarted
+{
+    margin-top: 2%;
+    background-color: red;
+    font-size: 20px;
+    padding: 10px 15px;
+}
+.block-2
+{
+    color: white;
+    height: 60%;
+    background-color: black;
+    border: 3px thin white;
+}
+.block-2 div{
+    height: 100%;
+    width: 50%;
+    align-items: center;
+}
+.block-2 .div1 h1,h2{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.block-2 .div1 h1
+{
+    padding-top: 20%;
+}
+.animi
+{
+    width: 50%;
+}
+.block-3
+{
+    width: 100%;
+    display: inline-flex;
+
+    color: white;
+    height: 60%;
+    background-color: black;
+    border: 2px thin white;
+}
+.block-3 .left
+{
+    float:left;
+    width: 50%;
+}
+.block-3 div{
+    height: 100%;
+    width: 50%;
+    background-color: black;
+    color: white;
+    align-items: center;
+}
+.block-3 div h1{
+    padding-top: 20%;
+    text-align: center;
+}
+.block-4
+{
+    width: fit-content;
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.block-4 div div{
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgb(57, 51, 51);
+    border: 2px solid white;
+    text-align: left;
+    
+}
+.block-4 div div h1 i{
+    float: right;
+    margin-right: 5%;
+    margin-top: 1%;
+}
+.block-4 div div h1
+{
+    padding-left: 20px;
+}
+.block-4 div div .p
+{
+    display: none;
+}
+.block-4 div div h1:hover
+{
+    cursor: pointer;
+}
+.block-4 div div h1:hover .block-4 div div .p 
+{
+    display: inline-flex;
+}
+.foot 
+{
+    background-color: black;
+    color: white;
+}
+.foot span
+{
+    display: block;
+    margin-left: 9%;
+    font-size: 20px;
+}
+.footer div
+{
+    color: white;
+    background-color: black;
+}
+.foot1 span
+{
+    text-align: center;
+    display: inline-block;
+    width: 20%;
+   padding: 10px;
+}
+.foot1{
+    margin-top: 3%;
+}
+.lang select
+{
+    color: white;
+    background-color: black;
+    float: right;
+    margin-right:50%;
+}
+
+
+
+
+
+
